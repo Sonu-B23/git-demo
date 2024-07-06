@@ -1,1 +1,5 @@
 hey hello this is suprathika
+welcome to GitHub
+
+welcome to 2 training session 
+of git tools
