@@ -1,6 +1,10 @@
 hey hello this is suprathika
+<<<<<<< HEAD
 welcome to GitHub
 
 welcome to 2 training session 
 of git tools
 hey
+=======
+welcome to github
+>>>>>>> 6d52c3e19848e4d027b9c2a57fd2d83e835ae728
